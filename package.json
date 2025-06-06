@@ -1,5 +1,5 @@
 {
-  "name": "funApp",
+  "name": "funapp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo": "~53.0.10",
     "react": "19.0.0",
     "react-native": "0.79.3"
   },
